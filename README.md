@@ -34,7 +34,7 @@ This project aims to develop a comprehensive Hospital Management System (HMS) to
 
 - **Backend:** Node.js/Java for server-side logic and APIs.
 - **Frontend:** React.js/Angular for user interface development.
-- **Database:** MySQL/PostgreSQL for relational data management.
+- **Database:** MongoDB for NoSQL document-based data management.
 - **Chatbot Development:** Python using NLP libraries such as NLTK/Spacy.
 - **Integration:** RESTful APIs for integration with city-wide healthcare systems.
 
